@@ -22,3 +22,5 @@ What makes this project unique is that the original timeline was intended for st
 ->HTML5
 ->CSS3
 ->Flaticon (for event icons)
+
+**Note:** The images folder includes the .PNG files for all the icons used.
